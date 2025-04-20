@@ -1,4 +1,4 @@
-## Live link: (Click Here)[https://mini-chat-bot.streamlit.app/]
+# Live link: [Click Here](https://mini-chat-bot.streamlit.app/)
 
 gemini_chatbot/
 │
