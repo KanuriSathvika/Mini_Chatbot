@@ -1,3 +1,5 @@
+## Live link: (Click Here)[https://mini-chat-bot.streamlit.app/]
+
 gemini_chatbot/
 │
 ├── app/                        # Core app logic
