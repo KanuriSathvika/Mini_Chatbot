@@ -10,8 +10,8 @@ This project is built using **Google's Gemini models** and **Streamlit** to crea
 ## 🌟 Features
 
 - 💬 Chat interface with **multi-session history**
-- 🎛️ **Switch between Gemini models** like `gemini-pro`, `gemini-1.5-flash`, and more
-- 🧠 **Model info per message** with hover tooltips
+- 🎛️ **Switch between Gemini models** like  `gemini-1.5-flash`,`gemini-2.0-flash` and more
+- 🧠 **Model info per message** with hover tooltip
 - 📝 Rename / 🗑️ Delete chat sessions
 - 🆕 Start a fresh chat anytime
 - ✨ Clean UI using **Python + Streamlit**
