@@ -39,4 +39,12 @@ This project is built using **Google's Gemini models** and **Streamlit** to crea
 git clone https://github.com/your-username/mini_chatbot.git
 cd mini_chatbot
 pip install -r requirements.txt
+```
 
+## ▶️ Running the App
+
+After installing dependencies and setting up your API key:
+
+```bash
+streamlit run main.py
+```
